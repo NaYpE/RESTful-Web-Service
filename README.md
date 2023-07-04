@@ -61,7 +61,7 @@ To run this project, follow these steps:
 1. Make sure you have Docker installed on your system.
 2. Clone the project repository.
     ```
-    $ git clone https://gitlab.com/ZonarSystems/consolidation-layer/poc-learning/sample-restful-web-service.git
+    $ git clone https://git...
     $ cd ./sample-restful-web-service
     ```
 3. Build the Docker image for the database by running the following command:
